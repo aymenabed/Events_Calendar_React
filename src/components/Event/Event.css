@@ -1,0 +1,15 @@
+.event {
+    background-color: #7598b7;
+    color: black;
+    position: absolute;
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    text-align: center; 
+    border: 1px dashed black;
+    padding: 5px; 
+    box-sizing: border-box; 
+
+}
+  
+ 
